@@ -1,0 +1,9 @@
+It is the first basic program to test compiler setup and syntax.
+It prints a simple message on the screen using printf(). 
+Every C program starts from the main() function and ends with return .
+
+Important Points:
+#include <stdio.h> --> standard input-output header file.
+main() --> entry point of program.
+printf() --> prints output on screen.
+return ; --> program ends successfully.
