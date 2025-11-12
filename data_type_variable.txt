@@ -1,0 +1,13 @@
+Data Types and Variables (C Language):
+Data types define the type and size of data a variable can store (like box type).
+A variable is a named memory location used to store data temporarily.
+
+Common Data Types:
+
+int → integers (4 bytes)
+
+float → decimal values (4 bytes)
+
+double → large decimal values (8 bytes)
+
+char → single character (1 byte )

@@ -1,2 +1,0 @@
-Data type in c language 
-int 
