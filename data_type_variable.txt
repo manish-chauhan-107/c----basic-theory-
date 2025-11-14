@@ -4,10 +4,14 @@ A variable is a named memory location used to store data temporarily.
 
 Common Data Types:
 
-int → integers (4 bytes)
+int --> integers (4 bytes)
 
-float → decimal values (4 bytes)
+float --> decimal values (4 bytes)
 
-double → large decimal values (8 bytes)
+double --> large decimal values (8 bytes)
 
-char → single character (1 byte )
+char --> single character (1 byte )
+
+long  --> (8 byts)
+
+short --> (2 byts)
