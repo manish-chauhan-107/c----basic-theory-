@@ -1,0 +1,6 @@
+Input & Output in C (scanf and printf):
+Used to take input from user and show output on screen.
+printf() displays data, and scanf() reads user input from keyboard.
+%d, %f, %c, %s --> format specifiers for int, float, char, string.
+& before variable in scanf() gives address to store input.
+\n used for new line in outp
