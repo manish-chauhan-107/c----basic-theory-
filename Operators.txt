@@ -1,0 +1,25 @@
+Operators are special symbols used to perform operations on variables and values.
+They help in calculations, comparisons, decision making, and logical processing.
+Arithmetic Operators perform math operations.
+Symbols: + (add), - (subtract), * (multiply), / (divide), % (remainder)
+Example: c = a + b;
+Relational Operators compare two values.
+Symbols: >, <, >=, <=, ==, !=.
+They return true (1) or false (0).
+Example: a > b
+Logical Operators are used in conditions.
+Symbols: && (AND), || (OR), ! (NOT).
+Used mostly inside if statements.
+Example: (a > 5 && b < 10)
+Assignment Operators assign values to variables.
+Symbols: =, +=, -=, *=, /=, %=.
+Example: a += 5; means a = a + 5;
+Increment and Decrement Operators increase or decrease the value by 1.
+Symbols: ++ and --
+++a (pre-increment), a++ (post-increment).
+These are mostly used in loops like for.
+Bitwise Operators work on bits.
+Symbols: &, |, ^, ~, <<, >>
+Useful in low-level programming.
+Conditional Operator (Ternary) is a short form of if-else.
+Syntax: condition ? value1 : value2;
