@@ -1,6 +1,7 @@
 Data Types and Variables (C Language):
 Data types define the type and size of data a variable can store (like box type).
 A variable is a named memory location used to store data temporarily.
+like int a = 2 ; here a is a variable .
 
 Common Data Types:
 
