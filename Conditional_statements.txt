@@ -1,0 +1,7 @@
+Conditional statements allow a program to make decisions based on conditions.
+They check whether a condition is true or false.
+The main conditional statements in C are:
+if
+if-else
+else-if
+switch
