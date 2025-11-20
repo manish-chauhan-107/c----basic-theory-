@@ -5,3 +5,17 @@ if
 if-else
 else-if
 switch
+if condition : 'if' statement runs a block of code only when the condition is true.
+else-if condition :checks multiple conditions one by one.
+else condition :run when all above condition are false .
+switch statement : selects a block based on a variable’s value.
+              case    :represents different choices.
+              break   :stops the execution of switch.
+              default : runs when no case matches.
+
+Relational and logical operators are commonly used in conditions.
+
+importance of conditional statements :
+Conditional statements help control program flow.
+They make programs dynamic and interactive.
+Used in decisions like grading, login system, comparing numbers.
