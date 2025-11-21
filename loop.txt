@@ -1,0 +1,23 @@
+Loops are used to repeat a block of code multiple times.
+They save time and reduce repetition.
+C has three main loops: for, while, and do-while.
+
+use of 'for' loop:
+     for loop is used when number of iterations is known.
+
+use of 'while' loop:
+     while loop is used when iterations depend on a condition.
+     It checks condition before running the body.
+
+use of 'do while' loop:
+     do-while loop runs the body at least once, then checks condition.
+     It is different from while loop because body runs first.
+
+break is used to exit a loop immediately.
+continue skips the current iteration and moves to the next.
+Loops often use increment/decrement operators (++, --).
+Loops help in printing series, searching arrays, and repeated tasks.
+Infinite loop happens when condition never becomes false.
+Nested loops means loop inside another loop.
+Commonly used in patterns and matrices.
+Loops improve code efficiency and reduce lines.
