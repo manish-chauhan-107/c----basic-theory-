@@ -1,1 +1,27 @@
 function :
+         A function is a block of code that perform a specific task.it help in code reusability.
+C - program are made up of many small functions. some are library function (pre define function)and some are user define functions:
+
+library function :
+function which are provided by 'C' standard libraries that performs a specific common task.these function already define by compiler.
+example of pre define function :
+printf(), scanf(), sqrt(), etc.
+
+user define function :
+function which are define or created by the programmer.it contain 3 main part that are 
+--> function declaration : tells compiler about function name and return type.
+--> definition : contains actual code of the function.
+--> call : executes that function.
+
+function call :
+there are two method for calling a function 
+--> call by value : 
+      A method where a copy of the value is passed to the function.
+Changes made inside the function do NOT affect the original variable
+--> call by reference : 
+      A method where address of variable is passed to the function.
+Changes made inside the function affect the original variable
+
+
+   
+
