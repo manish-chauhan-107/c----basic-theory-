@@ -1,3 +1,10 @@
 An array is a collection of elements of the same data type stored in continuous memory.
 It allows storing multiple values using one variable name.
 Each element is accessed using an index starting from 0.
+Arrays are useful for loops, searching, sorting, and storing lists.
+Size of array must be a constant value (in basic C).
+Array elements are stored in contiguous memory locations.
+Default values of arrays are garbage unless initialized.
+Arrays can be passed to functions (passed by reference).
+2D arrays represent rows and columns like a matrix.
+important : Array name acts like a pointer to the first element.
