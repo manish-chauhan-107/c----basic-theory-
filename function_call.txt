@@ -1,1 +1,16 @@
-calling of a function 
+A function call is used to execute a user-defined function.
+It transfers control from main() to the called function.
+syntex:
+function_name(arguments);
+
+C supports two types of function calls:
+Call by Value
+Call by Reference
+
+Call by Value:
+Only a copy of data is sent.
+Changes inside function do not affect original variable.
+
+Call by Reference:
+Address is sent using pointers.
+Changes inside function affect original value.
