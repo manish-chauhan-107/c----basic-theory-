@@ -8,7 +8,7 @@ Call by Value
 Call by Reference
 
 Call by Value:
-Only a copy of data is sent.
+Only a copy of actual variable pass through the function 
 Changes inside function do not affect original variable.
 
 Call by Reference:
