@@ -1,5 +1,5 @@
 Array with function refers to :
 Arrays can be passed to functions in C.
-When an array is passed, only its address is passed → call by reference.
+When an array is passed, only its address is passed call by reference.
 Changes made inside the function affect the original array.
 Function parameter for array is written using [] or pointer notation.
