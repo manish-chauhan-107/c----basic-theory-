@@ -1,0 +1,15 @@
+String :
+string is a collection of characters stored in an array.
+In C, strings are stored in a character array.
+Every string ends with a null character '\0'.
+strings are used to store words, names, messages, etc.
+
+pointers:
+A pointer is a variable that stores the address of another variable.
+It helps access and modify data directly from memory.
+Pointer is declared using *.
+
+string with pointers:
+String name itself acts like a pointer to first character.
+Pointer can be used to access string characters.
+Using pointer arithmetic, we can traverse a string.
