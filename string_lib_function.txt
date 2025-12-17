@@ -1,0 +1,12 @@
+String library functions are predefined functions used to perform operations on strings.
+// #include <string.h>
+strlen() – Returns number of characters (excluding '\0').
+strcpy() – Copies one string into another.
+strcat() – Appends one string to another.
+strcmp() – compare strings
+  Returns :
+  0 → strings equal
+  <0 → str1 < str2
+  >0 → str1 > str2
+strlwr() – lowercase 
+strupr() – uppercase
