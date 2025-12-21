@@ -1,1 +1,18 @@
+Pointer arithmetic means operations performed on pointers.
+Pointers store memory addresses, not values.
 
+Allowed pointer operations are:
+Increment (p++)
+Derement (p--)
+Addition (p + n)
+Subtraction (p - n)
+
+Pointer arithmetic depends on the data type size.
+If pointer is of type int, incrementing moves 4 bytes.
+If pointer is of type char, incrementing moves 1 byte.
+Pointer arithmetic is mostly used with arrays.
+Array name itself behaves like a pointer.
+Subtracting two pointers gives number of elements between them.
+Adding two pointers is not allowed.
+Pointer arithmetic makes memory access fast.
+Used in strings, dynamic memory, and data structures.
