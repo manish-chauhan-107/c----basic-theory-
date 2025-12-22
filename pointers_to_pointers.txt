@@ -1,0 +1,6 @@
+Pointer to Pointer (Theory) :
+A pointer to pointer stores the address of another pointer
+It is also called double pointer
+It is used when we want to access or modify a pointer itself
+Declared using two asterisks **
+Commonly used in dynamic memory, functions, and arrays of strings
