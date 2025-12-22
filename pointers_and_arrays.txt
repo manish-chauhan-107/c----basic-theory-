@@ -1,0 +1,8 @@
+pointer and arrays :
+In C, array name itself acts like a pointer
+It stores the address of the first element of the array
+Pointer can be used to access array elements
+Array elements are stored in continuous memory locations
+Pointer arithmetic helps move through array elements
+arr[i] and *(arr + i) are same
+Pointer makes array access faster and efficient
