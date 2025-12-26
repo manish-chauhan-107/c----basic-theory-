@@ -4,3 +4,10 @@ Structure is used to group related data
 Declared using the keyword struct
 Each member has its own memory location
 Structure helps in organizing complex data
+
+
+important point :
+Structure members accessed using dot operator (.)
+Structure variables can be many
+Different data types allowed
+Memory allocated is sum of all members
