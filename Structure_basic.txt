@@ -1,1 +1,6 @@
-
+A structure is a user-defined data type
+It allows storing different data types under one name
+Structure is used to group related data
+Declared using the keyword struct
+Each member has its own memory location
+Structure helps in organizing complex data
