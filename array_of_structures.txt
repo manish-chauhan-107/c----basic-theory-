@@ -1,0 +1,7 @@
+An array of structures stores multiple structure variables of the same type
+It is used when we want to store data of many objects (students, employees, etc.)
+Each element of the array is a structure itself
+Access structure members using array index + dot operator
+Helps in handling large and organized data
+Memory = size of structure × number of elements
+Useful in record management systems
